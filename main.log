@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.1.24)  15 NOV 2018 15:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.1.24)  15 NOV 2018 18:39
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -393,50 +393,86 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 Package: lipsum 2014/07/27 v1.3 150 paragraphs of Lorem Ipsum dummy text
 \c@lips@count=\count125
 )
+(/usr/local/texlive/2016/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count126
+\lst@gtempboxa=\box33
+\lst@token=\toks34
+\lst@length=\count127
+\lst@currlwidth=\dimen145
+\lst@column=\count128
+\lst@pos=\count129
+\lst@lostspace=\dimen146
+\lst@width=\dimen147
+\lst@newlines=\count130
+\lst@lineno=\count131
+\lst@maxwidth=\dimen148
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+\c@lstnumber=\count132
+\lst@skipnumbers=\count133
+\lst@framebox=\box34
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2015/06/04 1.6 listings configuration
+))
+Package: listings 2015/06/04 1.6 (Carsten Heinz)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2016/05/09 v1.1c Standard LaTeX Color (DPC)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 144.
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2015/06/04 1.6 listings language file
+)
 
 Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
-less on input line 51.
+less on input line 74.
 
 
 Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
-less on input line 53.
+less on input line 76.
 
-\@float@every@figure=\toks34
-\c@claim=\count126
-\c@theorem=\count127
-\c@defn=\count128
-\c@fact=\count129
+\@float@every@figure=\toks35
+\c@claim=\count134
+\c@theorem=\count135
+\c@defn=\count136
+\c@fact=\count137
 (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 98.
-LaTeX Font Info:    ... okay on input line 98.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 98.
-LaTeX Font Info:    ... okay on input line 98.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 98.
-LaTeX Font Info:    ... okay on input line 98.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 98.
-LaTeX Font Info:    ... okay on input line 98.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 98.
-LaTeX Font Info:    ... okay on input line 98.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 98.
-LaTeX Font Info:    ... okay on input line 98.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 98.
-LaTeX Font Info:    ... okay on input line 98.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 121.
+LaTeX Font Info:    ... okay on input line 121.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 121.
+LaTeX Font Info:    ... okay on input line 121.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 121.
+LaTeX Font Info:    ... okay on input line 121.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 121.
+LaTeX Font Info:    ... okay on input line 121.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 121.
+LaTeX Font Info:    ... okay on input line 121.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 121.
+LaTeX Font Info:    ... okay on input line 121.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 121.
+LaTeX Font Info:    ... okay on input line 121.
 
 (/usr/local/texlive/2016/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count130
-\scratchdimen=\dimen145
-\scratchbox=\box33
-\nofMPsegments=\count131
-\nofMParguments=\count132
-\everyMPshowfont=\toks35
-\MPscratchCnt=\count133
-\MPscratchDim=\dimen146
-\MPnumerator=\count134
-\makeMPintoPDFobject=\count135
-\everyMPtoPDFconversion=\toks36
+\scratchcounter=\count138
+\scratchdimen=\dimen149
+\scratchbox=\box35
+\nofMPsegments=\count139
+\nofMParguments=\count140
+\everyMPshowfont=\toks36
+\MPscratchCnt=\count141
+\MPscratchDim=\dimen150
+\MPnumerator=\count142
+\makeMPintoPDFobject=\count143
+\everyMPtoPDFconversion=\toks37
 ) (/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
@@ -456,11 +492,12 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: subfig package v1.3 is loaded.
 Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
 Package caption Info: rotating package is loaded.
 Package caption Info: supertabular package is loaded.
 Package caption Info: End \AtBeginDocument code.
-\AtBeginShipoutBox=\box34
-Package hyperref Info: Link coloring OFF on input line 98.
+\AtBeginShipoutBox=\box36
+Package hyperref Info: Link coloring OFF on input line 121.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -468,16 +505,17 @@ Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 (/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count136
+\c@section@level=\count144
 )
-LaTeX Info: Redefining \ref on input line 98.
-LaTeX Info: Redefining \pageref on input line 98.
-LaTeX Info: Redefining \nameref on input line 98.
+LaTeX Info: Redefining \ref on input line 121.
+LaTeX Info: Redefining \pageref on input line 121.
+LaTeX Info: Redefining \nameref on input line 121.
 
 (./main.out) (./main.out)
 \@outlinefile=\write3
 \openout3 = `main.out'.
 
+\c@lstlisting=\count145
 \openout2 = `titlepage.aux'.
 
  (./titlepage.tex
@@ -510,7 +548,7 @@ es/iit_logo.pdf>])
 \openout2 = `certificate.aux'.
 
  (./certificate.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 13--109
+Underfull \hbox (badness 10000) in paragraph at lines 13--132
 
  []
 
@@ -518,7 +556,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.109 \include{certificate}
+l.132 \include{certificate}
                             [1
 
 
@@ -553,15 +591,15 @@ Package hyperref Warning: old lof file detected, not used; run LaTeX again.
 \tf@lof=\write5
 \openout5 = `main.lof'.
 
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 130.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 153.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/it' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 130.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 153.
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 130.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 153.
  [5
 
 
@@ -613,7 +651,7 @@ l.21 \lipsum[1]
 ier (name{page.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.143 \include{chapter1}
+l.166 \include{chapter1}
                          [2]
 \openout2 = `chapter2.aux'.
 
@@ -633,7 +671,7 @@ l.13 \lipsum[2]
 s been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.145 \include{chapter2}
+l.168 \include{chapter2}
                          [4]
 \openout2 = `chapter3.aux'.
 
@@ -704,51 +742,51 @@ l.41 \item T
 
 
 
-] <Figures/skt.png, id=90, 426.84468pt x 548.80031pt>
+]pdfTeX warning (ext4): destination with the same identifier (name{page.6}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.51 \begin{itemize}
+                     [6 <./Figures/ckt.png>] [7]
+<Figures/skt.png, id=100, 426.84468pt x 548.80031pt>
 File: Figures/skt.png Graphic file (type png)
  <use Figures/skt.png>
-Package pdftex.def Info: Figures/skt.png used on input line 44.
+Package pdftex.def Info: Figures/skt.png used on input line 73.
 (pdftex.def)             Requested size: 390.0pt x 501.46068pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-pdfTeX warning (ext4): destination with the same identifier (name{page.6}) has 
-been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.51 \lipsum[3]
-                [6 <./Figures/ckt.png>]) [7] [8 <./Figures/bus.jpg>] [9 <./Figu
-res/gen.png>] [10 <./Figures/load.png>] [11 <./Figures/skt.png>]
+[8] [9]) [10] [11 <./Figures/bus.jpg>] [12 <./Figures/gen.png>] [13 <./Figures/
+load.png>] [14 <./Figures/skt.png>]
 \openout2 = `chapter4.aux'.
 
-
-(./chapter4.tex
+ (./chapter4.tex
 Chapter 4.
-[12
+[15
 
 
 
 
-]) [13]
+]) [16]
 \openout2 = `chapter5.aux'.
 
  (./chapter5.tex
 Chapter 5.
-) [14
+) [17
 
 
 
 
 ]
 No file main.bbl.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 159.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 159.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 182.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 182.
 (./main.aux (./titlepage.aux) (./certificate.aux) (./abstract.aux)
 (./acknowledgement.aux) (./chapter1.aux) (./chapter2.aux) (./chapter3.aux)
 (./chapter4.aux) (./chapter5.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 159.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 159.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 182.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 182.
 
 
 Package rerunfilecheck Warning: File `main.out' has changed.
@@ -757,7 +795,7 @@ Package rerunfilecheck Warning: File `main.out' has changed.
 
 Package rerunfilecheck Info: Checksums for `main.out':
 (rerunfilecheck)             Before: D41D8CD98F00B204E9800998ECF8427E;0
-(rerunfilecheck)             After:  4BD87AFA9774DCD44CBA0E2981FE0860;871.
+(rerunfilecheck)             After:  FC958F3554B0F317A4E9DA59928C27DB;897.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -767,28 +805,31 @@ LaTeX Warning: There were undefined references.
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 159.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 182.
  ) 
 Here is how much of TeX's memory you used:
- 8502 strings out of 493014
- 125283 string characters out of 6133351
- 316670 words of memory out of 5000000
- 11818 multiletter control sequences out of 15000+600000
- 12711 words of font info for 46 fonts, out of 8000000 for 9000
+ 9755 strings out of 493014
+ 143998 string characters out of 6133351
+ 364937 words of memory out of 5000000
+ 13048 multiletter control sequences out of 15000+600000
+ 13429 words of font info for 48 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 44i,19n,43p,477b,429s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 44i,20n,43p,955b,434s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 ></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pf
 b></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb
-></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><
-/usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></u
-sr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></
-usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></u
-sr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on main.pdf (21 pages, 757664 bytes).
+></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><
+/usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></u
+sr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr
+/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/lo
+cal/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/l
+ocal/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/lo
+cal/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/loca
+l/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on main.pdf (24 pages, 792091 bytes).
 PDF statistics:
- 183 PDF objects out of 1000 (max. 8388607)
- 136 compressed objects within 2 object streams
- 41 named destinations out of 1000 (max. 500000)
+ 208 PDF objects out of 1000 (max. 8388607)
+ 155 compressed objects within 2 object streams
+ 44 named destinations out of 1000 (max. 500000)
  36 words of extra memory for PDF output out of 10000 (max. 10000000)
 
