@@ -10,4 +10,8 @@
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {4.1}{\ignorespaces Transfer of real and reactive power injections and flows from RTDS (right) to server (left), Observing circuit breaker status\relax }}{16}{figure.4.1}
 \contentsline {figure}{\numberline {4.2}{\ignorespaces Transfer of real and reactive power injections and flows from RTDS (right) to server (left)\relax }}{16}{figure.4.2}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Values of Bus voltages and angles for IEEE 14 Bus system\relax }}{17}{figure.4.3}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Removing measurements of flows at lines 6-11 and 10-11 and injections at 6,10,11. Part 1\relax }}{18}{figure.4.4}
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Removing measurements of flows at lines 6-11 and 10-11 and injections at 6,10,11. Part 2\relax }}{19}{figure.4.5}
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Running state estimation with less than neccessary measurements\relax }}{20}{figure.4.6}
 \addvspace {10\p@ }
