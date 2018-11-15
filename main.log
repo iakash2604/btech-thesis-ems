@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.1.24)  15 NOV 2018 13:45
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.1.24)  15 NOV 2018 15:27
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -406,9 +406,7 @@ less on input line 53.
 \c@theorem=\count127
 \c@defn=\count128
 \c@fact=\count129
-(./main.aux (./titlepage.aux) (./certificate.aux) (./abstract.aux)
-(./acknowledgement.aux) (./chapter1.aux) (./chapter2.aux) (./chapter3.aux)
-(./chapter4.aux) (./chapter5.aux))
+(./main.aux)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 98.
@@ -493,7 +491,7 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 19.
 (/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-<./Figures/iit_logo.pdf, id=68, 523.60315pt x 553.20177pt>
+<./Figures/iit_logo.pdf, id=4, 523.60315pt x 553.20177pt>
 File: ./Figures/iit_logo.pdf Graphic file (type pdf)
 
 <use ./Figures/iit_logo.pdf>
@@ -537,20 +535,25 @@ l.109 \include{certificate}
 [3
 
 
-] (./main.toc)
+]
+
+Package hyperref Warning: old toc file detected, not used; run LaTeX again.
+
 \tf@toc=\write4
 \openout4 = `main.toc'.
 
- [4
+[4
 
 
 
-] (./main.lof)
+]
+
+Package hyperref Warning: old lof file detected, not used; run LaTeX again.
+
 \tf@lof=\write5
 \openout5 = `main.lof'.
 
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 130.
-
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
@@ -562,10 +565,12 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
  [5
 
 
-] (./main.lot)
+]
+
+Package hyperref Warning: old lot file detected, not used; run LaTeX again.
+
 \tf@lot=\write6
 \openout6 = `main.lot'.
-
 
 [6
 
@@ -587,7 +592,7 @@ LaTeX Warning: Citation `Ernst' on page 1 undefined on input line 10.
 
 LaTeX Warning: Citation `Gold3' on page 1 undefined on input line 10.
 
-<./Figures/pent.pdf, id=133, 300.44547pt x 272.47992pt>
+<./Figures/pent.pdf, id=48, 300.44547pt x 272.47992pt>
 File: ./Figures/pent.pdf Graphic file (type pdf)
 
 <use ./Figures/pent.pdf>
@@ -634,37 +639,103 @@ l.145 \include{chapter2}
 
  (./chapter3.tex
 Chapter 3.
-)pdfTeX warning (ext4): destination with the same identifier (name{page.5}) has
- been already used, duplicate ignored
+
+LaTeX Warning: Citation `rtds' on page 5 undefined on input line 8.
+
+
+LaTeX Warning: Citation `IEEE14bus' on page 5 undefined on input line 9.
+
+
+LaTeX Warning: Reference `fig:ckt' on page 5 undefined on input line 15.
+
+<Figures/ckt.png, id=80, 822.07124pt x 611.28375pt>
+File: Figures/ckt.png Graphic file (type png)
+ <use Figures/ckt.png>
+Package pdftex.def Info: Figures/ckt.png used on input line 17.
+(pdftex.def)             Requested size: 390.0pt x 289.99902pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: Reference `fig:bus' on page 5 undefined on input line 21.
+
+
+LaTeX Warning: Reference `fig:skt' on page 5 undefined on input line 21.
+
+<Figures/bus.jpg, id=82, 257.46187pt x 338.01282pt>
+File: Figures/bus.jpg Graphic file (type jpg)
+ <use Figures/bus.jpg>
+Package pdftex.def Info: Figures/bus.jpg used on input line 24.
+(pdftex.def)             Requested size: 390.0pt x 512.06215pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Figures/gen.png, id=83, 345.54094pt x 274.02374pt>
+File: Figures/gen.png Graphic file (type png)
+ <use Figures/gen.png>
+Package pdftex.def Info: Figures/gen.png used on input line 29.
+(pdftex.def)             Requested size: 390.0pt x 309.28781pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Figures/load.png, id=84, 242.40562pt x 289.83281pt>
+File: Figures/load.png Graphic file (type png)
+ <use Figures/load.png>
+Package pdftex.def Info: Figures/load.png used on input line 34.
+(pdftex.def)             Requested size: 390.0pt x 466.36006pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: Reference `fig:skt' on page 5 undefined on input line 38.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.5}) has 
+been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.147 \include{chapter3}
-                         [5
+l.41 \item T
+            he remote IP address and port of the server to which data is to ...
+[5
 
 
 
 
-]pdfTeX warning (ext4): destination with the same identifier (name{page.6}) has
- been already used, duplicate ignored
+] <Figures/skt.png, id=90, 426.84468pt x 548.80031pt>
+File: Figures/skt.png Graphic file (type png)
+ <use Figures/skt.png>
+Package pdftex.def Info: Figures/skt.png used on input line 44.
+(pdftex.def)             Requested size: 390.0pt x 501.46068pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.6}) has 
+been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.147 \include{chapter3}
-                         [6]
+l.51 \lipsum[3]
+                [6 <./Figures/ckt.png>]) [7] [8 <./Figures/bus.jpg>] [9 <./Figu
+res/gen.png>] [10 <./Figures/load.png>] [11 <./Figures/skt.png>]
 \openout2 = `chapter4.aux'.
 
- (./chapter4.tex
+
+(./chapter4.tex
 Chapter 4.
-[7
+[12
 
 
 
 
-]) [8]
+]) [13]
 \openout2 = `chapter5.aux'.
 
  (./chapter5.tex
 Chapter 5.
-) [9
+) [14
 
 
 
@@ -685,24 +756,27 @@ Package rerunfilecheck Warning: File `main.out' has changed.
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: CF06D746C040793B3157968B3253FA84;878
-(rerunfilecheck)             After:  A35D4ADF19937D0E54CC151AA4B7CAAD;872.
+(rerunfilecheck)             Before: D41D8CD98F00B204E9800998ECF8427E;0
+(rerunfilecheck)             After:  4BD87AFA9774DCD44CBA0E2981FE0860;871.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 
 LaTeX Warning: There were undefined references.
 
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 159.
  ) 
 Here is how much of TeX's memory you used:
- 8507 strings out of 493014
- 125294 string characters out of 6133351
- 321042 words of memory out of 5000000
- 11816 multiletter control sequences out of 15000+600000
+ 8502 strings out of 493014
+ 125283 string characters out of 6133351
+ 316670 words of memory out of 5000000
+ 11818 multiletter control sequences out of 15000+600000
  12711 words of font info for 46 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 44i,19n,43p,477b,401s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 44i,19n,43p,477b,429s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 ></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pf
 b></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb
@@ -711,10 +785,10 @@ b></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb
 sr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></
 usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></u
 sr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on main.pdf (16 pages, 605366 bytes).
+Output written on main.pdf (21 pages, 757664 bytes).
 PDF statistics:
- 211 PDF objects out of 1000 (max. 8388607)
- 178 compressed objects within 2 object streams
- 31 named destinations out of 1000 (max. 500000)
- 139 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 183 PDF objects out of 1000 (max. 8388607)
+ 136 compressed objects within 2 object streams
+ 41 named destinations out of 1000 (max. 500000)
+ 36 words of extra memory for PDF output out of 10000 (max. 10000000)
 
