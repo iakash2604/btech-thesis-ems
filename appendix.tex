@@ -1,7 +1,17 @@
-\chapter{CHAPTER NAME}
-
-\section{SECTION NAME}
-\lipsum[1]
-
-\section{SECTION NAME}
-\lipsum[2]
+\chapter{Appendix}
+\section{Server Script to collect data from RTDS and Process it}
+\begin{lstlisting}[language=python]
+def get_data_from_rtds(self):
+		s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+		s.bind(('', self.port))
+		self.rtds_data=[]
+		while True:
+			data, addr = s.recvfrom(BUFFER_SIZE)
+			if len(data) != 0:
+				values=data[i:i+4] for i in range(0,len(data),4)
+				for value_ascii_str in values:
+					value_hex_str = bin(int(binascii.hexillify(value_ascii_str),16))
+					f=int(value_hex_str,2)
+					self.rtds_data.add(struct.unpack('f',struct.pack('I',f))[0])
+				break
+\end{lstlisting}

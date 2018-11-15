@@ -15,3 +15,5 @@
 \contentsline {section}{\numberline {4.1}Transfer of Data from RTDS to server}{15}{section.4.1}
 \contentsline {section}{\numberline {4.2}Observability Analysis and State Estimation}{15}{section.4.2}
 \contentsline {chapter}{\numberline {5}Future Work}{21}{chapter.5}
+\contentsline {chapter}{\numberline {A}Appendix}{22}{appendix.A}
+\contentsline {section}{\numberline {A.1}Server Script to collect data from RTDS and Process it}{22}{section.A.1}

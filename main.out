@@ -15,3 +15,5 @@
 \BOOKMARK [1][-]{section.4.1}{Transfer of Data from RTDS to server}{chapter.4}% 15
 \BOOKMARK [1][-]{section.4.2}{Observability Analysis and State Estimation}{chapter.4}% 16
 \BOOKMARK [0][-]{chapter.5}{Future Work}{}% 17
+\BOOKMARK [0][-]{appendix.A}{Appendix}{}% 18
+\BOOKMARK [1][-]{section.A.1}{Server Script to collect data from RTDS and Process it}{appendix.A}% 19
